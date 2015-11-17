@@ -4,15 +4,50 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>ActionExtension.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>Crashlytics7And8.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>Today.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>CE71C2511BFB609A001C965B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CE71C26F1BFB60FD001C965B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CE71C2861BFB6113001C965B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CE71C29A1BFB612A001C965B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CE71C2AD1BFB6152001C965B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CE71C2C01BFB6157001C965B</key>
 		<dict>
 			<key>primary</key>
 			<true/>
